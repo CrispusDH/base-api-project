@@ -12,3 +12,5 @@ and run it using `package.json`:
     "test": "npm run ava && npm run aftertest || npm run aftertest",
     "aftertest": "npm run hook:after && npm run clean",
 ```
+## How to duplicate this repo in my own repo
+You can follow [this article](https://help.github.com/articles/duplicating-a-repository/)
